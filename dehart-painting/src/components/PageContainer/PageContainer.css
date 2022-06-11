@@ -1,0 +1,7 @@
+.main {
+  background-image: fixed url("../../../public/avatar.svg") top 100% no-repeat;
+  min-height: 100vh;
+  height: 100%;
+  min-width: 100vw;
+  width: 100%;
+}
